@@ -49,6 +49,9 @@ export default function Footer1() {
                                                 <i className="fa-regular fa-envelope mt-1" />
                                                 <Link href="/mailto:sales@fastconnectiontech.com ">sales@fastconnectiontech.com </Link>
                                             </li>
+                                            <li className="d-flex ">
+                                                <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
+                                            </li>
                                         </ul>
                                       
                                         
