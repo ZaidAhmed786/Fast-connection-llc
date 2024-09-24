@@ -16,15 +16,15 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
-                                            <h2 className="text-white">Fast Connection LLC</h2>
+                                            <h2 className="text-white">Zolara Consulting LLC</h2>
                                         </Link>
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                        At Fast Connection LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
+                                        At Zolara Consulting LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
                                         </p>
                                         <p>
-                                         Fast Connection LLC
+                                         Zolara Consulting LLC
                                         </p>
                                      
                                     </div>
@@ -39,7 +39,7 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                3564 Spring Creek Rd, Dundee, FL 33838-3710
+                                                117 NE 1st St, Miami, FL 33132
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
@@ -47,7 +47,7 @@ export default function Footer1() {
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="/mailto:sales@fastconnectiontech.com ">sales@fastconnectiontech.com </Link>
+                                                <Link href="/mailto:sales@zolaraconsulting.com ">sales@zolaraconsulting.com </Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
@@ -133,7 +133,7 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()}  |   Fast  <Link href="/">Connection</Link>
+                                © All Copyright {new Date().getFullYear()}  |   Zolara  <Link href="/">Consulting</Link>
                             </p>
                            
                         </div>

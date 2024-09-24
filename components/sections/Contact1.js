@@ -37,7 +37,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Make a Quote</p>
                                                         <h3>
-                                                            <Link href="/mailto:infotech@gmail.com">sales@fastconnectiontech.com </Link>
+                                                            <Link href="/mailto:infotech@gmail.com">sales@zolaraconsulting.com </Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -51,7 +51,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <h3>
-                                                        3564 Spring Creek Rd, Dundee, FL 33838-3710
+                                                        117 NE 1st St, Miami, FL 33132
                                                         </h3>
                                                     </div>
                                                 </div>

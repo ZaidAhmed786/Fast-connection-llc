@@ -9,7 +9,7 @@ export default function Menu() {
                 <li className="has-dropdown active menu-thumb">
                     <Link href="/">
                         Home
-                        <i className="fas fa-angle-down ps-1" />
+                        
                     </Link>
                    
                 </li>

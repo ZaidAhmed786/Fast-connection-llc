@@ -16,13 +16,13 @@ export default function About() {
                             <div className="section-title ">
                                 <div className="row align-items-center ">
                                 <div className=" col-lg-6 py-5"> 
-
+                                
                                 <span className="wow fadeInUp">ABOUT US</span>
                                 <h2 className="wow fadeInUp" data-wow-delay=".3s">
                                 Delivering Unmatched Connectivity Across the Nation
                                 </h2>
                                 <p className="fw-medium pt-5">
-                                At Fast Connection LLC, we are committed to providing the best in class Internet, cable, and phone services to our customers. Here’s how we stand out:
+                                At Zolara Consulting LLC, we are committed to providing the best in class Internet, cable, and phone services to our customers. Here’s how we stand out:
                                 </p>
                                 
                                 <div className="d-flex align-items-center gap-3 mt-4">

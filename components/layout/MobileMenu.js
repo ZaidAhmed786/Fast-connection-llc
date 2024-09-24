@@ -12,7 +12,7 @@ export default function MobileMenu() {
 
     return (
         <>
-            <div className="mobile-menu fix mb-3 mean-container">
+            <div className="mobile-menu  mb-3 mean-container">
                 <div className="mean-bar">
                     <Link href="/#nav" className="meanmenu-reveal" style={{ right: 0, left: 'auto', display: 'inline' }}>
                         <span>
@@ -20,23 +20,21 @@ export default function MobileMenu() {
                             </span>
                         </span>
                     </Link>
-                    <nav className="mean-nav  d-sm-block d-lg-none">
+                    <nav className="mean-nav ">
                         <ul>
                             <li className="has-dropdown active menu-thumb">
                                 <Link href="/">
                                     Home
-                                    <i className="fas fa-angle" />
+                                 
                                 </Link>
                                
-                                <a className={`mean-expand ${activeItem === 1 ? "mean-clicked" : ""}`} onClick={() => handleActiveItem(1)}>
-                                    <i className="far fa-plus" />
-                                </a>
+                             
                             </li>
                            
                             <li>
                                 <Link href="/">
                                    Our Services
-                                    <i className="fas fa-angle-down" />
+                                    
                                 </Link>
                                 <ul className="submenu" style={{ display: `${activeItem === 2 ? "block" : "none"}` }}>
                                          <li><Link href="/service">Cable TV</Link></li>

@@ -15,7 +15,7 @@ export default function Offcanvas({
                             <div className="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                                 <div className="offcanvas__logo">
                                     <Link href="/">
-                                        <h3>Fast Connection LLC</h3>
+                                        <h3>Zolara Consulting LLC</h3>
                                     </Link>
                                 </div>
                                 <div className="offcanvas__close" onClick={handleOffCanvas}>
@@ -25,7 +25,7 @@ export default function Offcanvas({
                                 </div>
                             </div>
                            
-                            <div className="d-none d-md-block d-lg-none">
+                            <div className="d-block d-md-block d-lg-none">
                                 <MobileMenu />
                             </div>
 
@@ -37,7 +37,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">3564 Spring Creek Rd, Dundee, FL 33838-3710</Link>
+                                            <Link target="_blank" href="#">117 NE 1st St, Miami, FL 33132</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -45,7 +45,7 @@ export default function Offcanvas({
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/mailto:info@azent.com"><span className="mailto:info@example.com">sales@fastconnectiontech.com </span></Link>
+                                            <Link href="/mailto:info@azent.com"><span className="mailto:info@example.com">sales@zolaraconsulting.com </span></Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">

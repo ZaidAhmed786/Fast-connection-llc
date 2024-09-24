@@ -20,7 +20,7 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="/mailto:info@example.com" className="link">sales@fastconnectiontech.com </Link>
+                                    <Link href="/mailto:info@example.com" className="link">sales@zolaraconsulting.com </Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
@@ -38,7 +38,7 @@ export default function Header1({
                                 <div className="header-left">
                                     <div className="logo">
                                         <Link href="/" className="header-logo">
-                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Fast Connection LLC</h3>
+                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Zolara Consulting LLC</h3>
                                         </Link>
                                     </div>
                                 </div>
