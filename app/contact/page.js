@@ -7,7 +7,7 @@ export default function Contact() {
     return (
         <>
 
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Contact Us">
+            <Layout headerStyle={4} footerStyle={1} breadcrumbTitle="Contact Us">
                 <div>
                     <section className="contact-section fix section-padding">
                         <div className="container">
@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
                                                         <h3>
-                                                            <Link href="/tel:+2085550112">+1 (863) 268-5598</Link>
+                                                            <Link href="/tel:+1 (888) 903-5346">+1 (888) 903-5346</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -49,7 +49,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
                                                         <h3>
-                                                            <Link href="/mailto:infotech@gmail.com">sales@zolaraconsulting.com </Link>
+                                                            <Link href="/mailto:sales@zolaraconsulting.com ">sales@zolaraconsulting.com </Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -63,7 +63,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <h3>
-                                                        1117 NE 1st St, Miami, FL 33132
+                                                        1117 ne 1st st, miami, fl 33132
                                                         </h3>
                                                     </div>
                                                 </div>

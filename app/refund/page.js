@@ -5,7 +5,7 @@ export default function RefundPolicy() {
     return (
         <>
 
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Refund Policy">
+            <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="Refund Policy">
                 <section className="Project-details-section fix section-padding">
                     <div className="container">
                         <div className="project-details-wrapper">

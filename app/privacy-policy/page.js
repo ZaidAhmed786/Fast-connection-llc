@@ -6,7 +6,7 @@ export default function PrivacyPolicy() {
     return (
         <>
 
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Privacy Policy">
+            <Layout headerStyle={3} footerStyle={1} breadcrumbTitle="Privacy Policy">
                 <section className="news-standard fix section-padding">
                     <div className="container">
                         <div className="news-details-area">

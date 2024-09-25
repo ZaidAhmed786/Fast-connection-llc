@@ -70,7 +70,7 @@ export default function About() {
 
                                 </div>
                                 <div className="col-lg-6 col-12 text-lg-end pt-lg-0 pt-5">
-                                <img src="/assets/img/istockphoto1.jpg " alt=""   width="90%" height="600px" />
+                                <img src="/assets/img/virtual_office-common-area-66169-4.jpg " alt=""   width="90%" height="600px" />
                                 </div>
                                  
                                 </div>

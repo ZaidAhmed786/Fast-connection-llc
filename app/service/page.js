@@ -44,7 +44,7 @@ export default function Service() {
                                     <div className="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                                         <div className="service-box-items box-shadow active">
                                             <div className="icon">
-                                            <img src="/assets/img/satellite-dish-solid.png" alt="icon-img" className='img-fluid' width="30px" />
+                                            <img src="/assets/img/virtual_office-individual-office-66170-5.jpg" alt="icon-img" className='img-fluid' width="30px" />
 
                                             </div>
                                             <div className="content">

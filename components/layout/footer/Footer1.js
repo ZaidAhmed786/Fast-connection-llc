@@ -39,11 +39,11 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                117 NE 1st St, Miami, FL 33132
+                                                117 ne 1st st, miami, fl 33132
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:2086660112">+1 (863) 268-5598</Link>
+                                                <Link href="/tel:+1 (888) 903-5346">+1 (888) 903-5346</Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
@@ -133,7 +133,7 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()}  |   Zolara  <Link href="/">Consulting</Link>
+                                © All Copyright {new Date().getFullYear()}  |   Zolara  <Link href="/">Consulting LLC</Link>
                             </p>
                            
                         </div>

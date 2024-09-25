@@ -37,7 +37,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">117 NE 1st St, Miami, FL 33132</Link>
+                                            <Link target="_blank" href="#">117 ne 1st st, miami, fl 33132</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -45,7 +45,7 @@ export default function Offcanvas({
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/mailto:info@azent.com"><span className="mailto:info@example.com">sales@zolaraconsulting.com </span></Link>
+                                            <Link href="/mailto:info@azent.com"><span className="mailto:sales@zolaraconsulting.com">sales@zolaraconsulting.com </span></Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -61,7 +61,7 @@ export default function Offcanvas({
                                             <i className="far fa-phone" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/tel:+11002345909">+1 (863) 268-5598</Link>
+                                            <Link href="/tel:+11002345909">+1 (888) 903-5346</Link>
                                         </div>
                                     </li>
                                 </ul>

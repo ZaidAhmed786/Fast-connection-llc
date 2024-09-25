@@ -28,7 +28,7 @@ function Added() {
                     
                 </div>
                 <div className='col-lg-3 pt-lg-0 pt-5'>
-                    <img src='/assets/img/feature.jpg'  className='' width="100%" height="400px"  />
+                    <img src='/assets/img/virtual_office-break-room-66168-3.jpg'  className='' width="100%" height="400px"  />
 
                 </div>
                 <div className='col-lg-4 pt-lg-0 pt-5'>

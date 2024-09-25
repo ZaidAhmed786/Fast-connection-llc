@@ -54,7 +54,7 @@ export default function About1() {
                                    
                                     <div className="about-image-1 bg-cover wow fadeInLeft" data-wow-delay=".3s" style={{ backgroundImage: 'url("assets/img/about/01.jpg")' }}>
                                         <div className="wow fadeInUp" data-wow-delay=".5s">
-                                            <img src="/assets/img/romantic1.jpg" alt="" width="100%" height="450px" />
+                                            <img src="/assets/img/virtual_office-individual-office-66170-5.jpg" alt="" width="100%" height="450px" />
                                         </div>
                                     </div>
                                 </div>

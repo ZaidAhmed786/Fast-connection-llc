@@ -31,8 +31,8 @@ export default function Faq1() {
                                 </div>
                             </div>
                             <div className="col-lg-6 wow fadeInUp" data-wow-delay=".4s">
-                                <div className="faq-image">
-                                    <img src="/assets/img/cyberman.jpeg" alt="faq-img" />
+                                <div className="">
+                                    <img src="/assets/img/virtual_office-meeting-room-66171-62.jpg" alt="" width="100%" height="500px" />
                                 </div>
                             </div>
                         </div>

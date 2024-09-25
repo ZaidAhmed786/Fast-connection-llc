@@ -20,11 +20,11 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="/mailto:info@example.com" className="link">sales@zolaraconsulting.com </Link>
+                                    <Link href="/mailto:sales@zolaraconsulting.com" className="link">sales@zolaraconsulting.com </Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <Link href="/tel:2086660112">+1 (863) 268-5598</Link>
+                                    <Link href="/tel:+1 (888) 903-5346">+1 (888) 903-5346</Link>
                                 </li>
                             </ul>
                            
