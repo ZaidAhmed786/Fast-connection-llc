@@ -27,6 +27,8 @@ export default function Header1({
                                     <Link href="/tel:+1 (888) 903-5346">+1 (888) 903-5346</Link>
                                 </li>
                             </ul>
+                            <div className=" "><h5 className=" text-white px-3 py-2">Mon-Sat, 9am-7pm (EST)</h5></div>
+
                            
                         </div>
                     </div>

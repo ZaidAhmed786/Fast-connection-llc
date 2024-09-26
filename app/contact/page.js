@@ -33,9 +33,9 @@ export default function Contact() {
                                                     </div>
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
-                                                        <h3>
-                                                            <Link href="/tel:+1 (888) 903-5346">+1 (888) 903-5346</Link>
-                                                        </h3>
+                                                        <div >
+                                                            <Link href="/tel:+1 (888) 903-5346" className="text-white fs-4 fw-bold">+1 (888) 903-5346</Link>
+                                                        </div>
                                                     </div>
                                                 </div>
                                                 <div className="contact-info-items mb-4">
@@ -48,9 +48,9 @@ export default function Contact() {
                                                     </div>
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
-                                                        <h3>
-                                                            <Link href="/mailto:sales@zolaraconsulting.com ">sales@zolaraconsulting.com </Link>
-                                                        </h3>
+                                                        <div >
+                                                            <Link href="/mailto:sales@zolaraconsulting.com " className="text-white fs-4 fw-bold">sales@zolaraconsulting.com </Link>
+                                                        </div>
                                                     </div>
                                                 </div>
                                                 <div className="contact-info-items border-none">
@@ -62,9 +62,9 @@ export default function Contact() {
                                                     </div>
                                                     <div className="content">
                                                         <p>Location</p>
-                                                        <h3>
-                                                        1117 ne 1st st, miami, fl 33132
-                                                        </h3>
+                                                        <div className="text-white fs-4 fw-bold">
+                                                        1117 NE 1st St, Miami, FL 33132
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>

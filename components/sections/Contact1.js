@@ -51,7 +51,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <h3>
-                                                        117 ne 1st st, miami, fl 33132
+                                                        117 NE 1st St, Miami, FL 33132
                                                         </h3>
                                                     </div>
                                                 </div>

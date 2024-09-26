@@ -39,7 +39,7 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                117 ne 1st st, miami, fl 33132
+                                                117 NE 1st St, Miami, FL 33132
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
