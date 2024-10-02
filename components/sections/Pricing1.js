@@ -32,7 +32,7 @@ export default function Pricing1() {
                                             </div>
                                             <div className="pricing-header">
                                                 <h2>$65.00</h2>
-                                                <span>Par month</span>
+                                                <span>Per month</span>
                                                 <p>
                                                 For Everyday Browsing
                                                 </p>
@@ -72,7 +72,7 @@ export default function Pricing1() {
                                             </div>
                                             <div className="pricing-header">
                                                 <h2>$80.00</h2>
-                                                <span>Par month</span>
+                                                <span>Per month</span>
                                                 <p>
                                                 For Entertainment Lovers
                                                 </p>
@@ -112,7 +112,7 @@ export default function Pricing1() {
                                             </div>
                                             <div className="pricing-header">
                                                 <h2>$90.00</h2>
-                                                <span>Par month</span>
+                                                <span>Per month</span>
                                                 <p>
                                                 For Ultimate Speed
                                                 </p>

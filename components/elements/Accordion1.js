@@ -12,7 +12,7 @@ export default function Accordion1() {
                 <div className="accordion-item mb-3 wow fadeInUp" data-wow-delay=".3s">
                     <h5 className="accordion-header" onClick={() => handleClick(1)}>
                         <button className={activeItem  == 1 ? "accordion-button" : "accordion-button collapsed"} type="button" data-bs-toggle="collapse" data-bs-target="#faq1" aria-expanded="true" aria-controls="faq1">
-                            What types of internet packages do hou offer?
+                            What types of internet packages do you offer?
                         </button>
                     </h5>
                     <div id="faq1" className={activeItem  == 1 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent="#accordion">
