@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
                                                         <div >
-                                                            <Link href="/tel:+1 (888) 903-5346" className="text-white fs-6 fw-bold">+1 (888) 903-5346</Link>
+                                                            <Link href="/tel:+1 (863) 852-2692" className="text-white fs-6 fw-bold">+1 (863) 852-2692</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -63,7 +63,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <div className="text-white fs-6 fw-bold">
-                                                        1117 NE 1st St, Miami, FL 33132
+                                                        1117 NE 1st Ave FL 9, Miami, FL 33132
                                                         </div>
                                                     </div>
                                                 </div>

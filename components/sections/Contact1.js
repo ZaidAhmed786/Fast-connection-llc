@@ -22,7 +22,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Tell Us How Can We Help</p>
                                                         <h3>
-                                                            <Link href="/tel:+2085550112">+1 (888) 903-5346</Link>
+                                                            <Link href="/tel:+2085550112">+1 (863) 852-2692</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -51,7 +51,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <h3>
-                                                        117 NE 1st St, Miami, FL 33132
+                                                        117 NE 1st Ave FL 9, Miami, FL 33132
                                                         </h3>
                                                     </div>
                                                 </div>

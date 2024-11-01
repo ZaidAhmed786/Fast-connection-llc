@@ -16,15 +16,15 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
-                                            <h2 className="text-white">Zolara Consulting LLC</h2>
+                                            <h2 className="text-white">Zolara Global Tech LLC</h2>
                                         </Link>
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                        At Zolara Consulting LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
+                                        At Zolara Global Tech LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
                                         </p>
                                         <p>
-                                         Zolara Consulting LLC
+                                         Zolara Global Tech LLC
                                         </p>
                                      
                                     </div>
@@ -39,11 +39,11 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                117 NE 1st St, Miami, FL 33132
+                                                117 NE 1st Ave FL 9, Miami, FL 33132
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:+1 (888) 903-5346">+1 (888) 903-5346</Link>
+                                                <Link href="/tel:+1 (863) 852-2692">+1 (863) 852-2692</Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
