@@ -39,7 +39,7 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                7710 Bellaire Boulevard, Houston, TX 77036
+                                                7710 Bellaire Boulevard Unit B2, Houston, TX 77036
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />

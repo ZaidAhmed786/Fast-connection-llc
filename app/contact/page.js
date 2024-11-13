@@ -63,7 +63,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <div className="text-white fs-6 fw-bold">
-                                                        17710 Bellaire Boulevard, Houston, TX 77036
+                                                        17710 Bellaire Boulevard Unit B2, Houston, TX 77036
                                                         </div>
                                                     </div>
                                                 </div>
