@@ -37,7 +37,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">117 NE 1st Ave FL 9, Miami, FL 33132</Link>
+                                            <Link target="_blank" href="#">7710 Bellaire Boulevard, Houston, TX 77036</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">

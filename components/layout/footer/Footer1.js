@@ -39,7 +39,7 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                117 NE 1st Ave FL 9, Miami, FL 33132
+                                                7710 Bellaire Boulevard, Houston, TX 77036
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
