@@ -63,7 +63,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <div className="text-white fs-6 fw-bold">
-                                                        1440 Louisiana St Suite 900, Houston, TX 77002
+                                                        1117 NE 1st Ave FL 9, Miami, FL 33132
                                                         </div>
                                                     </div>
                                                 </div>

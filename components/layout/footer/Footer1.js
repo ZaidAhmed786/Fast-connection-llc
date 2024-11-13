@@ -39,7 +39,7 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                440 Louisiana St Suite 900, Houston, TX 77002
+                                                117 NE 1st Ave FL 9, Miami, FL 33132
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
