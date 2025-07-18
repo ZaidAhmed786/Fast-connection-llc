@@ -15,7 +15,7 @@ export default function Offcanvas({
                             <div className="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                                 <div className="offcanvas__logo">
                                     <Link href="/">
-                                        <h3>Zolara Global Tech LLC</h3>
+                                        <h3>Zolara Solutions LLC</h3>
                                     </Link>
                                 </div>
                                 <div className="offcanvas__close" onClick={handleOffCanvas}>
@@ -37,7 +37,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">7710 Bellaire Boulevard Unit B2, Houston, TX 77036</Link>
+                                            <Link target="_blank" href="#">86-22 Dongan Ave Apt 4H, Elmhurst, NY 11373-3817</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -61,7 +61,7 @@ export default function Offcanvas({
                                             <i className="far fa-phone" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/tel:+11002345909">+1 (888) 868-8345</Link>
+                                            <Link href="/tel:+11002345909">+1 (888) 470-7229</Link>
                                         </div>
                                     </li>
                                 </ul>
