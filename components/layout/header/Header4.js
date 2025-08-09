@@ -20,11 +20,11 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="/mailto:sales@zolaraconsulting.com" className="link">contact@zolaraconsulting.com </Link>
+                                    <Link href="mailto:sales@zolaraconsulting.com" className="link">contact@zolaraconsulting.com </Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <Link href="/tel:+18884707229">+1 (888) 470-7229</Link>
+                                    <Link href="/tel:+18888688345">+1 (888) 868-8345</Link>
                                 </li>
                             </ul>
                            
@@ -38,7 +38,7 @@ export default function Header1({
                                 <div className="header-left">
                                     <div className="logo">
                                         <Link href="/" className="header-logo">
-                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Zolara Solutions LLC</h3>
+                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Zolara Global Tech LLC</h3>
                                         </Link>
                                     </div>
                                 </div>

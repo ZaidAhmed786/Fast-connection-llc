@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
                                                         <div >
-                                                            <Link href="/tel:+18884707229" className="text-white fs-6 fw-bold">+1 (888) 470-7229</Link>
+                                                            <Link href="/tel:+18888688345" className="text-white fs-6 fw-bold">+1 (888) 868-8345</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -49,7 +49,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
                                                         <div >
-                                                            <Link href="/mailto:sales@zolaraconsulting.com " className="text-white fs-6 fw-bold">sales@zolaraconsulting.com </Link>
+                                                            <Link href="mailto:sales@zolaraconsulting.com " className="text-white fs-6 fw-bold">sales@zolaraconsulting.com </Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -63,7 +63,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <div className="text-white fs-6 fw-bold">
-                                                        186-22 Dongan Ave Apt 4H, Elmhurst, NY 11373-3817
+                                                        17710 Bellaire Blvd Unit B2, Houston, TX 77036-4957
                                                         </div>
                                                     </div>
                                                 </div>

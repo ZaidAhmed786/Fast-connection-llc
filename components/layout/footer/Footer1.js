@@ -16,15 +16,15 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
-                                            <h2 className="text-white">Zolara Solutions LLC</h2>
+                                            <h2 className="text-white">Zolara Global Tech LLC</h2>
                                         </Link>
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                        At Zolara Solutions LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
+                                        At Zolara Global Tech LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
                                         </p>
                                         <p>
-                                         Zolara Solutions LLC
+                                         Zolara Global Tech LLC
                                         </p>
                                      
                                     </div>
@@ -39,15 +39,15 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                86-22 Dongan Ave Apt 4H, Elmhurst, NY 11373-3817
+                                                7710 Bellaire Blvd Unit B2, Houston, TX 77036-4957
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:+18884707229">+1 (888) 470-7229</Link>
+                                                <Link href="/tel:+18888688345">+1 (888) 868-8345</Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="/mailto:sales@zolaraconsulting.com ">sales@zolaraconsulting.com </Link>
+                                                <Link href="mailto:sales@zolaraconsulting.com ">sales@zolaraconsulting.com </Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
@@ -133,7 +133,7 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                               © {new Date().getFullYear()}  |   Zolara  <Link href="/">Solutions, LLC</Link> Elmhurst, NY 11373-3817, USA. All Rights Reserved.
+                               ©  2024-{new Date().getFullYear()}   |   Zolara  <Link href="/">Global Tech, LLC.</Link> Houston, TX 77036-4957, USA. All Rights Reserved.
                             </p>
                            
                         </div>
